@@ -4,19 +4,19 @@
       "id": 1,
       "name": "XBOX One Series X",
       "description": "Best console ever",
-      "price": 500,
+      "price": 500
     },
     {
       "id": 2,
       "name": "Nintendo Switch",
       "description": "Best family console",
-      "price": 400,
+      "price": 400
     },
     {
       "id": 3,
       "name": "Play Station 5",
       "description": "Worst world console",
-      "price": 300,
+      "price": 300
     }
   ]
 }
