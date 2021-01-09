@@ -1,21 +1,21 @@
 {
   "products": [
     {
-      "_id": 1,
+      "id": 1,
       "prod_name": "XBOX One Series X",
       "prod_desc": "Best console ever",
       "prod_price": 500,
       "update_at": "2021-01-09"
     },
     {
-      "_id": 2,
+      "id": 2,
       "prod_name": "Nintendo Switch",
       "prod_desc": "Best family console",
       "prod_price": 400,
       "update_at": "2021-01-09"
     },
     {
-      "_id": 3,
+      "id": 3,
       "prod_name": "Play Station 5",
       "prod_desc": "Worst world console",
       "prod_price": 300,
