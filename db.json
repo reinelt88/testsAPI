@@ -5,21 +5,18 @@
       "name": "XBOX One Series X",
       "description": "Best console ever",
       "price": 500,
-      "update_at": "2021-01-09"
     },
     {
       "id": 2,
       "name": "Nintendo Switch",
       "description": "Best family console",
       "price": 400,
-      "update_at": "2021-01-09"
     },
     {
       "id": 3,
       "name": "Play Station 5",
       "description": "Worst world console",
       "price": 300,
-      "update_at": "2021-01-09"
     }
   ]
 }
